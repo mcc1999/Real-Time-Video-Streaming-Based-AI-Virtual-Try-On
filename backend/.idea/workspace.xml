@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f62344f-7f94-4fb9-9f6d-50eeb46d0f35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ai_try_on_db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="2d65a66c-50f7-40c8-9855-1d3e656e068b" />
+  <component name="ProjectId" id="1pZETsGUsWAUSO2HR4K1HwiIVtt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images/cloth" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ai_try_on\backend\static\images\image-mask" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ai_try_on\backend\static\images\cloth" />
+      <recent name="D:\ai_try_on\backend\static\images\result_dir" />
+      <recent name="D:\ai_try_on\backend\imagePose\model" />
+      <recent name="D:\ai_try_on\backend\imagePose\release" />
+      <recent name="D:\ai_try_on\backend\imagePose\pyRely" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="backend.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f62344f-7f94-4fb9-9f6d-50eeb46d0f35" name="Default Changelist" comment="" />
+      <created>1615382222279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615382222279</updated>
+      <workItem from="1615382228909" duration="19530000" />
+      <workItem from="1615550270146" duration="6320000" />
+      <workItem from="1615637178246" duration="35087000" />
+      <workItem from="1615961391321" duration="20103000" />
+      <workItem from="1616049490000" duration="13745000" />
+      <workItem from="1616223771346" duration="14817000" />
+      <workItem from="1616312975367" duration="4094000" />
+      <workItem from="1616430587958" duration="3957000" />
+      <workItem from="1616567171036" duration="7843000" />
+      <workItem from="1616603747761" duration="599000" />
+      <workItem from="1616672889129" duration="10461000" />
+      <workItem from="1616762570989" duration="3764000" />
+      <workItem from="1617089489909" duration="622000" />
+      <workItem from="1617386108524" duration="268000" />
+      <workItem from="1617386794402" duration="6000" />
+      <workItem from="1617779192407" duration="40000" />
+      <workItem from="1617859232553" duration="1242000" />
+      <workItem from="1617862197004" duration="1454000" />
+      <workItem from="1617966411132" duration="6953000" />
+      <workItem from="1618082075148" duration="1208000" />
+      <workItem from="1618108323873" duration="615000" />
+      <workItem from="1618146250578" duration="3727000" />
+      <workItem from="1618160138975" duration="1611000" />
+      <workItem from="1618455247750" duration="689000" />
+      <workItem from="1618892410609" duration="8132000" />
+      <workItem from="1618923780442" duration="6519000" />
+      <workItem from="1619004293719" duration="5661000" />
+      <workItem from="1619010230200" duration="5380000" />
+      <workItem from="1619016283747" duration="2088000" />
+      <workItem from="1619081109472" duration="9419000" />
+      <workItem from="1619102767409" duration="231000" />
+      <workItem from="1619103341576" duration="746000" />
+      <workItem from="1619104122044" duration="2000" />
+      <workItem from="1619431367117" duration="21000" />
+      <workItem from="1620526906874" duration="5594000" />
+      <workItem from="1620547589467" duration="2434000" />
+      <workItem from="1620557469988" duration="4827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615393913700">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="367" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1615393913700" />
+    <state width="548" height="466" key="DebuggerActiveHint" timestamp="1615965723315">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="548" height="466" key="DebuggerActiveHint/0.0.1440.870@0.0.1440.870" timestamp="1615965723315" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1617866140014">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1617866140014" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1615382485625">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1615382485625" />
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom" timestamp="1620567702887">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="147" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1616569105416" />
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1620567702887" />
+    <state width="1493" height="273" key="GridCell.Tab.0.center" timestamp="1620567702887">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="147" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1616569105416" />
+    <state width="1493" height="273" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1620567702887" />
+    <state width="1493" height="273" key="GridCell.Tab.0.left" timestamp="1620567702887">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="147" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1616569105416" />
+    <state width="1493" height="273" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1620567702887" />
+    <state width="1493" height="273" key="GridCell.Tab.0.right" timestamp="1620567702887">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="147" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1616569105416" />
+    <state width="1493" height="273" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1620567702887" />
+    <state width="1493" height="381" key="GridCell.Tab.1.bottom" timestamp="1619104096427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="256" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1615969003747" />
+    <state width="1493" height="381" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1619104096427" />
+    <state width="1493" height="381" key="GridCell.Tab.1.center" timestamp="1619104096427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="256" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1615969003747" />
+    <state width="1493" height="381" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1619104096427" />
+    <state width="1493" height="381" key="GridCell.Tab.1.left" timestamp="1619104096427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="256" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1615969003747" />
+    <state width="1493" height="381" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1619104096427" />
+    <state width="1493" height="381" key="GridCell.Tab.1.right" timestamp="1619104096427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1397" height="256" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1615969003747" />
+    <state width="1493" height="381" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1619104096427" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1615394274666">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.834@0.0.1536.834" timestamp="1615394274666" />
+    <state x="540" y="80" key="SettingsEditor" timestamp="1618455316356">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="442" y="83" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1616568601861" />
+    <state x="540" y="80" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1618455316356" />
+    <state x="653" y="307" width="340" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1615393735551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="653" y="307" width="340" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.834@0.0.1536.834" timestamp="1615393735551" />
+    <state x="92" y="92" width="1256" height="686" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615969376408">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="92" y="92" width="1256" height="686" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.870@0.0.1440.870" timestamp="1615969376408" />
+    <state x="321" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616691391372">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="321" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1616691391372" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1616594193368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1616594193368" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_try_on_backend/views.py</url>
+          <line>281</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_try_on_backend/views.py</url>
+          <line>279</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_try_on_backend/views.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
