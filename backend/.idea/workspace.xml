@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f62344f-7f94-4fb9-9f6d-50eeb46d0f35" name="Default Changelist" comment="" />
+    <list default="true" id="6f62344f-7f94-4fb9-9f6d-50eeb46d0f35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_try_on_backend/screenShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_try_on_backend/screenShot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_try_on_backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_try_on_backend/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/啦啦啦.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/fittingRoom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/fittingRoom.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/test.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/watchLive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/watchLive.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +46,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JupyterTrust" id="2d65a66c-50f7-40c8-9855-1d3e656e068b" />
   <component name="ProjectId" id="1pZETsGUsWAUSO2HR4K1HwiIVtt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,8 +60,9 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images/cloth" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -136,6 +151,7 @@
       <workItem from="1620526906874" duration="5594000" />
       <workItem from="1620547589467" duration="2434000" />
       <workItem from="1620557469988" duration="4827000" />
+      <workItem from="1621423529025" duration="344000" />
     </task>
     <servers />
   </component>
@@ -220,10 +236,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="321" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1616691391372" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1616594193368">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1621423645882">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1616594193368" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1621423645882" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

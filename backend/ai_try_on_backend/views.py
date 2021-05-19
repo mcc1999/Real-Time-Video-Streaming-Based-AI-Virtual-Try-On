@@ -99,7 +99,7 @@ class GetCutCloth(View):
     #     print(type(cloth_object_key))
     #
     #     # 阿里云主账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM账号进行API访问或日常运维，请登录 https://ram.console.aliyun.com 创建RAM账号。
-    #     auth = oss2.Auth('LTAI4GBVto9H6MdfwavhqbaF', 'Y30nP0NAfahdDmmLsbQbqztDIboNaY')
+    #     auth = oss2.Auth('*******', '******')
     #     # Endpoint以杭州为例，其它Region请按实际情况填写。
     #     bucket = oss2.Bucket(auth, 'http://oss-cn-shanghai.aliyuncs.com', 'ai-try-on')
     #
@@ -112,9 +112,9 @@ class GetCutCloth(View):
     #     if object_stream.client_crc != object_stream.server_crc:
     #         print("The CRC checksum between client and server is inconsistent!")
     #
-    #     APP_ID = '23142914'
-    #     API_KEY = 'V7XG3N5HIZYB2EVuxSFlOqI6'
-    #     SECRET_KEY = 'E447wOkS5LnDPFcsBIUxDMxVhNnmhf0u'
+    #     APP_ID = '*******'
+    #     API_KEY = '*******'
+    #     SECRET_KEY = '******'
     #
     #     client = AipBodyAnalysis(APP_ID, API_KEY, SECRET_KEY)
     #
@@ -187,7 +187,7 @@ class GetCloth(View):
         print(type(cloth_object_key))
 
         # 阿里云主账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM账号进行API访问或日常运维，请登录 https://ram.console.aliyun.com 创建RAM账号。
-        auth = oss2.Auth('LTAI4GBVto9H6MdfwavhqbaF', 'Y30nP0NAfahdDmmLsbQbqztDIboNaY')
+        auth = oss2.Auth('*******', '*******')
         # Endpoint以杭州为例，其它Region请按实际情况填写。
         bucket = oss2.Bucket(auth, 'http://oss-cn-shanghai.aliyuncs.com', 'ai-try-on')
 
@@ -213,7 +213,7 @@ class GetTryOnCloth(View):
         clothObjectKey = json.loads(clothObjectKey)
 
         # 阿里云主账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM账号进行API访问或日常运维，请登录 https://ram.console.aliyun.com 创建RAM账号。
-        auth = oss2.Auth('LTAI4GBVto9H6MdfwavhqbaF', 'Y30nP0NAfahdDmmLsbQbqztDIboNaY')
+        auth = oss2.Auth('******', '*******')
         # Endpoint以杭州为例，其它Region请按实际情况填写。
         bucket = oss2.Bucket(auth, 'http://oss-cn-shanghai.aliyuncs.com', 'ai-try-on')
 

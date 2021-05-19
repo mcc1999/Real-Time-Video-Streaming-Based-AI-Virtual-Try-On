@@ -5,8 +5,8 @@ import json
 
 def http_authenticate():
     # 客户ID、密钥
-    customer_key = "d1cff3053aca41c98fad7f4d0d133e9a"
-    customer_secret = "4d4468d2e8bd43da8a1e5420eeadbe32"
+    customer_key = "*******"
+    customer_secret = "*******"
     credentials = customer_key + ":" + customer_secret
     # 使用 base64 进行编码
     base64_credentials = base64.b64encode(credentials.encode("utf8"))
@@ -33,8 +33,8 @@ def http_authenticate():
 # step1 acquire
 def acquire(appID: str, channel: str) -> str:
     # 客户ID、密钥
-    customer_key = "d1cff3053aca41c98fad7f4d0d133e9a"
-    customer_secret = "4d4468d2e8bd43da8a1e5420eeadbe32"
+    customer_key = "******"
+    customer_secret = "******"
     credentials = customer_key + ":" + customer_secret
     # 使用 base64 进行编码
     base64_credentials = base64.b64encode(credentials.encode("utf8"))
@@ -73,8 +73,8 @@ def acquire(appID: str, channel: str) -> str:
 # step2 start
 def start(appID: str, channel: str, resourceid: str, token: str) -> str:
     # 客户ID、密钥
-    customer_key = "d1cff3053aca41c98fad7f4d0d133e9a"
-    customer_secret = "4d4468d2e8bd43da8a1e5420eeadbe32"
+    customer_key = "******"
+    customer_secret = "********"
     credentials = customer_key + ":" + customer_secret
     # 使用 base64 进行编码
     base64_credentials = base64.b64encode(credentials.encode("utf8"))
@@ -108,8 +108,8 @@ def start(appID: str, channel: str, resourceid: str, token: str) -> str:
                 "vendor": 2,
                 "region": 1,
                 "bucket": "ai-try-on",
-                "accessKey": "LTAI4GBVto9H6MdfwavhqbaF",
-                "secretKey": "Y30nP0NAfahdDmmLsbQbqztDIboNaY",
+                "accessKey": "*******",
+                "secretKey": "******",
             }
         }
     })
@@ -127,8 +127,8 @@ def start(appID: str, channel: str, resourceid: str, token: str) -> str:
 
 def stop(appID: str, channel: str, resourceid: str, sid: str):
     # 客户ID、密钥
-    customer_key = "d1cff3053aca41c98fad7f4d0d133e9a"
-    customer_secret = "4d4468d2e8bd43da8a1e5420eeadbe32"
+    customer_key = "*******"
+    customer_secret = "******"
     credentials = customer_key + ":" + customer_secret
     # 使用 base64 进行编码
     base64_credentials = base64.b64encode(credentials.encode("utf8"))

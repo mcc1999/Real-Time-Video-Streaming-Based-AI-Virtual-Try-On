@@ -81,8 +81,8 @@
                 let client = new OSS({
                     // region以杭州为例（oss-cn-hangzhou），其他region按实际情况填写。
                     region: 'oss-cn-shanghai',
-                    accessKeyId: 'LTAI4GBVto9H6MdfwavhqbaF',
-                    accessKeySecret: 'Y30nP0NAfahdDmmLsbQbqztDIboNaY',
+                    accessKeyId: '******',
+                    accessKeySecret: '******',
                     bucket: 'ai-try-on',
                 });
 

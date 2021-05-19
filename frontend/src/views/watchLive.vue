@@ -138,8 +138,8 @@
 
                 const client = new OSS({
                     region: 'oss-cn-shanghai',
-                    accessKeyId: 'LTAI4GBVto9H6MdfwavhqbaF',
-                    accessKeySecret: 'Y30nP0NAfahdDmmLsbQbqztDIboNaY',
+                    accessKeyId: '******',
+                    accessKeySecret: '******',
                     bucket: 'ai-try-on',
                 });
 
